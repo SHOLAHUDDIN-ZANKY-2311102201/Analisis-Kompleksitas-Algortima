@@ -1,1 +1,3 @@
 # Analisis-Kompleksitas-Algortima
+
+Dalam pemrograman, membalik string adalah salah satu operasi dasar yang sering digunakan. Reverse string adalah sebuah program yang dirancang untuk membalikkan sebuah urutan karakter dalam sebuah string, sehingga karakter pertama akan diletakkan di akhir lalu diurutkan kebelakang. Program ini sering digunakan dalam beberapa aplikasi maupun pengembangan sebuah perangkat lunak, seperti contoh analisis sebuah teks, enkripsi data teks, manipulasi sebuah string, atau bahkan sebagai bagian dari algortima suatu program. Salah satu contoh penggunaannya ialah ketika sebuah teks “Hello World” diubah menjadi “dlroW olleH” .
